@@ -14,3 +14,13 @@ For transcribe / TTS, input audio file must be a wave file with sample rate of 1
 >>> GPU is preferred
 >>> Microphone option is optional (experimental)
 
+# Examples with UI
+![2](https://github.com/user-attachments/assets/4be7d1ad-242d-44c0-a892-6d2fd299f461)
+
+
+
+
+
+![3](https://github.com/user-attachments/assets/1e236853-7c7d-498b-8b42-2053350bc7e1)
+
+
